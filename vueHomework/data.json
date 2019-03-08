@@ -1,0 +1,53 @@
+{
+    "data":{
+        "userStatus":{
+            "name":"回龙观",
+            "avatar":"/static/img/P1.png"
+        
+        
+        },
+        "errCode":"0",
+        "msg":""
+    },
+    "login":{
+        "data":{
+            "errCode":"0",  
+            "msg":"success",
+            "userType":"1"
+        }
+    },
+    "goods":{
+        "data":{
+            "goods1":[
+                {
+                    "goodId":"0",
+                    "imageUrl":"/static/img/P1.png",
+                    "goodName":"imgCDG",
+                    "goodPrice":"1500",
+                    "isBuy":"0"
+                },
+                {"goodId":"1",
+                "imageUrl":"xxx1",
+                "goodName":"CDG",
+                "goodPrice":"1500"
+                }
+            ],
+            "goods2":[
+                {
+                "goodId":"0",
+                "imageUrl":"/static/img/P1.png",
+                "goodName":"UnBuyCDG",
+                "goodPrice":"1500"
+                },
+                {"goodId":"1",
+                "imageUrl":"xxx1",
+                "goodName":"UnBuyCDG",
+                "goodPrice":"1500"
+                }
+            ]
+        },
+        "errCode":"0",  
+        "msg":"success"
+    }
+    
+}

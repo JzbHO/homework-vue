@@ -1,0 +1,19 @@
+{
+    "data":{
+        "userStatus":{
+            "name":"回龙观",
+            "avatar":"/static/img/P1.png"
+        
+        
+        },
+        "errCode":"0",
+        "msg":""
+    },
+    "login":{
+        "data":{
+            "errCode":"0",  
+            "msg":"success"
+        }
+    }
+    
+}
